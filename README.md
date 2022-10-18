@@ -1,7 +1,7 @@
 ### Olá! sou Michael Marin 👋
 
 - 🔭 Estou trabalhando com suporte técnico 
-- 🌱 Estudando PL/SQL
+- 🌱 Estudando PL/SQL/HTML/CSS
 - 😄 Pronomes: Ele/Dele
 
 
