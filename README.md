@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente sou <strong>Analista de Redes na Muvnet</strong>, onde utilizo ferramentas como Zabbix e Grafana e aplico automações com Python e SQL.
+- 🔭 Atualmente sou <strong>Analista de Redes</strong>, onde utilizo ferramentas como Zabbix e Grafana e aplico automações com Python e SQL.
 - 🌱 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Impacta Tecnologia para aprimorar minhas habilidades como desenvolvedor.
 - 🎯 Buscando ativamente minha <strong>primeira oportunidade como Desenvolvedor Júnior</strong>, onde posso contribuir e crescer profissionalmente.
 - 😄 Pronomes: Ele/Dele
