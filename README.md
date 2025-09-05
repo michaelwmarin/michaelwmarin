@@ -8,8 +8,8 @@
 
 ### 👨‍💻 Sobre Mim
 
-- 🔭 Atualmente sou <strong>Analista de Redes na Muvnet</strong>, onde utilizo ferramentas como Zabbix e Grafana [cite: 30, 54] e aplico automações com Python e SQL.
-- 🌱 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Impacta Tecnologia para aprimorar minhas habilidades como desenvolvedor[cite: 89, 90].
+- 🔭 Atualmente sou <strong>Analista de Redes na Muvnet</strong>, onde utilizo ferramentas como Zabbix e Grafana e aplico automações com Python e SQL.
+- 🌱 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Impacta Tecnologia para aprimorar minhas habilidades como desenvolvedor.
 - 🎯 Buscando ativamente minha <strong>primeira oportunidade como Desenvolvedor Júnior</strong>, onde posso contribuir e crescer profissionalmente.
 - 😄 Pronomes: Ele/Dele
 
@@ -17,36 +17,26 @@
 
 ### 🛠️ Stack de Tecnologias
 
-<p align="left">
+<p>
   <strong>Linguagens e Banco de Dados:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-  <a href="https://www.oracle.com/database/technologies/plsql.html" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
+  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Oracle" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img alt="MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
 </p>
-<p align="left">
+<p>
   <strong>Desenvolvimento Web (Frontend):</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
+  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 </p>
-<p align="left">
+<p>
   <strong>Infraestrutura e Ferramentas:</strong><br>
-  <a href="https://www.zabbix.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/> 
-  </a>
-   </p>
+  <img alt="Grafana" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
+  <img alt="Zabbix" height="40" width="50" src="https://avatars.githubusercontent.com/u/4561226?s=48&v=4" />
+  <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="VSCode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="Observium" src="https://img.shields.io/badge/Observium-5A697B?style=for-the-badge">
+</p>
 
 ---
 
