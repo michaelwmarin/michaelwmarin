@@ -1,15 +1,15 @@
 ### Olá, eu sou o Michael Marin! 👋
 
 <p align="left">
-  [cite_start]Com uma sólida experiência em infraestrutura e redes[cite: 23], estou direcionando minha carreira para o <strong>Desenvolvimento de Software</strong>. Minha paixão é unir a resolução de problemas complexos com a criação de soluções tecnológicas eficientes.
+  Com uma sólida experiência em infraestrutura e redes, estou direcionando minha carreira para o <strong>Desenvolvimento de Software</strong>. Minha paixão é unir a resolução de problemas complexos com a criação de soluções tecnológicas eficientes.
 </p>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-- [cite_start]🔭 Atualmente sou <strong>Analista de Redes na Muvnet</strong>, onde utilizo ferramentas como Zabbix e Grafana [cite: 30, 54] e aplico automações com Python e SQL.
-- [cite_start]🌱 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Impacta Tecnologia para aprimorar minhas habilidades como desenvolvedor[cite: 89, 90].
+- 🔭 Atualmente sou <strong>Analista de Redes na Muvnet</strong>, onde utilizo ferramentas como Zabbix e Grafana [cite: 30, 54] e aplico automações com Python e SQL.
+- 🌱 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Impacta Tecnologia para aprimorar minhas habilidades como desenvolvedor[cite: 89, 90].
 - 🎯 Buscando ativamente minha <strong>primeira oportunidade como Desenvolvedor Júnior</strong>, onde posso contribuir e crescer profissionalmente.
 - 😄 Pronomes: Ele/Dele
 
