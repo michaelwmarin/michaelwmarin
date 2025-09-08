@@ -42,11 +42,10 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">
-  <a href="https://github.com/michaelwmarin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=michaelwmarin&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwmarin&layout=compact&langs_count=7&theme=merko"/>
-  </a>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwmarin&layout=compact&theme=dark&hide_border=true" height="165" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=michaelwmarin&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165">
+  <img src="https://streak-stats.demolab.com?user=michaelwmarin&exclude_days=Sun%2CSat&theme=dark&hide_border=true&locale=pt_BR" height="165">
 </div>
 
 ---
