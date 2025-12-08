@@ -40,16 +40,6 @@
 
 ---
 
-## 📊 Minhas Estatísticas
-
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=michaelwmarin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwmarin&layout=compact&theme=dark)
-
-![Sequência de Commits](https://github-readme-stats.vercel.app/api?username=michaelwmarin&show_icons=true&theme=dark)
-
----
-
 ### 📫 Contato
 <div> 
   <a href="https://www.linkedin.com/in/michael-marin-630091186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
