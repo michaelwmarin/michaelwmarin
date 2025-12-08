@@ -40,13 +40,13 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+## 📊 Minhas Estatísticas
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwmarin&layout=compact&theme=dark&hide_border=true" height="165" width="350">
-  <img src="https://github-readme-stats.vercel.app/api?username=michaelwmarin&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165">
-  <img src="https://streak-stats.demolab.com?user=michaelwmarin&exclude_days=Sun%2CSat&theme=dark&hide_border=true&locale=pt_BR" height="165">
-</div>
+![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=michaelwmarin&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelwmarin&layout=compact&theme=dark)
+
+![Sequência de Commits](https://github-readme-stats.vercel.app/api?username=michaelwmarin&show_icons=true&theme=dark)
 
 ---
 
